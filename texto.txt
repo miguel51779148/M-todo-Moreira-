@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Stron.metodosmoreira155.gratis</title>
+<style>
+  :root{
+    --bg:#eef1f5;
+    --card:#ffffff;
+    --accent:#1e63d6; /* azul do título */
+    --muted:#6b7280;
+    --radius:16px;
+    --gap:14px;
+    --maxw:720px;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;font-family:Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;color:#111;background:var(--bg);-webkit-font-smoothing:antialiased}
+  .wrap{max-width:var(--maxw);margin:18px auto;padding:18px}
+  .header{display:flex;flex-direction:column;align-items:center;gap:10px;text-align:center}
+  .logo-badge{
+    width:96px;height:96px;border-radius:50%;
+    background:linear-gradient(135deg,#2c6ef6,#0aa3a3);
+    display:flex;align-items:center;justify-content:center;color:#fff;font-weight:800;
+    font-size:18px;box-shadow:0 6px 20px rgba(12,24,48,0.12);
+  }
+  h1{margin:0;color:var(--accent);font-size:20px;word-break:break-word}
+  p.lead{margin:0;color:var(--muted);font-size:14px}
+  /* banner */
+  .banner{
+    margin-top:14px;border-radius:20px;overflow:hidden;background:
+    linear-gradient(90deg,#0b3348 0%, #0b5877 40%, #0b3b6a 100%);
+    color:#fff;padding:22px;display:flex;align-items:center;gap:16px;box-shadow:0 10px 30px rgba(2,6,23,0.08)
+  }
+  .banner .art{min-width:96px;height:96px;border-radius:12px;background:
+    linear-gradient(180deg,#fff1 0%, #ffffff0d 100%);display:flex;align-items:center;justify-content:center;font-weight:900;font-size:28px}
+  .banner h2{margin:0;font-size:18px}
+  .banner p{margin:4px 0 0 0;font-size:13px;opacity:0.95}
+  /* links list */
+  .list{margin-top:18px;display:grid;gap:12px}
+  .link-card{
+    display:flex;align-items:center;gap:12px;padding:12px 14px;background:var(--card);
+    border-radius:18px;box-shadow:0 8px 22px rgba(15,30,60,0.06);
+    text-decoration:none;color:inherit;border:1px solid rgba(16,24,40,0.03);
+    transition:transform .12s ease, box-shadow .12s ease;
+  }
+  .link-card:hover{transform:translateY(-4px);box-shadow:0 18px 40px rgba(8,18,40,0.09)}
+  .avatar{
+    width:48px;height:48px;border-radius:50%;flex-shrink:0;display:inline-flex;align-items:center;justify-content:center;
+    font-weight:700;color:#fff;background:linear-gradient(135deg,#3b82f6,#8b5cf6);
+    box-shadow:0 6px 18px rgba(12,24,48,0.06)
+  }
+  .link-info{flex:1;display:flex;flex-direction:column}
+  .link-title{font-weight:600;color:#13407a}
+  .link-sub{font-size:12px;color:var(--muted);margin-top:2px}
+  .btn-cta{padding:8px 12px;border-radius:12px;background:linear-gradient(180deg,#0b61d6,#0a3ea8);color:#fff;font-weight:600;text-decoration:none;white-space:nowrap}
+  /* footer */
+  .footer{margin-top:20px;text-align:center;color:var(--muted);font-size:13px;padding:16px}
+  /* small screens */
+  @media(max-width:420px){
+    .banner{flex-direction:column;align-items:flex-start}
+    .wrap{padding:14px}
+    .logo-badge{width:72px;height:72px;font-size:16px}
+  }
+</style>
+</head>
+<body>
+  <div class="wrap" role="main">
+    <header class="header" aria-label="Topo">
+      <div class="logo-badge" aria-hidden="true">STRON</div>
+      <h1>Stron.metodosmoreira155.gratis</h1>
+      <p class="lead">🧠 Descubra os melhores métodos de Steal a brainrot! 🚀</p>
+    </header>
+
+    <section class="banner" aria-label="Banner principal">
+      <div class="art" aria-hidden="true">STORE</div>
+      <div>
+        <h2>Método Moreira</h2>
+        <p>Conteúdo exclusivo e passos práticos — clique abaixo para acessar no Roblox.</p>
+      </div>
+    </section>
+
+    <nav class="list" aria-label="Lista de links">
+      <!-- Todos os links apontam para o mesmo destino -->
+      <a class="link-card" href="https://www.roblox.com/share?code=8e7c333af3f6444cb2fa2ef4c2e80291&type=Server" target="_blank" rel="noopener">
+        <div class="avatar" aria-hidden="true">M</div>
+        <div class="link-info">
+          <div class="link-title">Método Moreira</div>
+          <div class="link-sub">Clique para abrir no Roblox</div>
+        </div>
+        <div class="btn-cta" aria-hidden="true">Abrir</div>
+      </a>
+
+      <a class="link-card" href="https://www.roblox.com/share?code=8e7c333af3f6444cb2fa2ef4c2e80291&type=Server" target="_blank" rel="noopener">
+        <div class="avatar" aria-hidden="true">S</div>
+        <div class="link-info">
+          <div class="link-title">Script Steal A Brainrot</div>
+          <div class="link-sub">Clique para abrir no Roblox</div>
+        </div>
+        <div class="btn-cta" aria-hidden="true">Abrir</div>
+      </a>
+
+      <a class="link-card" href="https://www.roblox.com/share?code=8e7c333af3f6444cb2fa2ef4c2e80291&type=Server" target="_blank" rel="noopener">
+        <div class="avatar" aria-hidden="true">T</div>
+        <div class="link-info">
+          <div class="link-title">Método Stron</div>
+          <div class="link-sub">Clique para abrir no Roblox</div>
+        </div>
+        <div class="btn-cta" aria-hidden="true">Abrir</div>
+      </a>
+    </nav>
+
+    <footer class="footer" aria-label="Rodapé">
+      © <span id="year"></span> Stron.metodosmoreira155.gratis — Junte-se hoje no Linktree-style.
+    </footer>
+  </div>
+
+<script>
+  // coloca ano atual
+  document.getElementById('year').textContent = new Date().getFullYear();
+
+  // opção: impedir redirecionamento em ambientes que bloqueiem target="_blank" (não necessário)
+  // nada mais necessário — os links abrem o endereço que você pediu.
+</script>
+</body>
+</html>
